@@ -56,7 +56,7 @@
     "fraction.js": "^4.3.7",
     "fsevents": "^2.3.3",
     "function-bind": "^1.1.2",
-    "glob": "^10.4.5",
+    "glob": "^10.5.0",
     "glob-parent": "^6.0.2",
     "graceful-fs": "^4.2.11",
     "gray-matter": "^4.0.3",
